@@ -23,10 +23,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ### Program :
 ```
-Developed By: ROHIT JAIN D
-Register No: 212222230120
+Developed By: ROHIT JAIN D   Register No: 212222230120
 ```
-
 ```Python
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -62,6 +60,10 @@ print("--------------------------------------------------------------")
 ```
 
 ### Output :
+<table border=5>
+<tr>
+<td>
+
 ```C
 Enter the mean inter arrival time of objects from Feeder (in secs): 10
 Enter the mean  inter service time of Lathe Machine (in secs) :  1
@@ -80,5 +82,11 @@ Probability that the system is busy : 0.40
 Probability that the system is empty : 0.60 
 --------------------------------------------------------------
 ```
+
+</td>
+</tr>
+</table>
+
+
 ### Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
